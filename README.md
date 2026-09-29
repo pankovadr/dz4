@@ -13,4 +13,4 @@
    - `Гипотеза не подтверждается`
 6. **Конец**
    ### Блок-схема
-   
+   https://github.com/pankovadr/dz4/blob/master/Схема4.drawio.png
