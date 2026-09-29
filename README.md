@@ -15,4 +15,11 @@
    ### Блок-схема
     ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/pankovadr/dz4/blob/master/Схема4.drawio.png)
 ## 2. Реализация программы 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]()
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/pankovadr/dz4/blob/master/2026-09-29_20-36-35.png)
+## 3.Результаты работы программы
+Введите три целых числа A, B и C: 6 9 12
+Гипотеза подтверждается
+Введите три целых числа A, B и C: 7 10 13
+Гипотеза не подтверждается
+## 4. Информация о разработчике
+Панкова Дарья, бИЦТ-262
