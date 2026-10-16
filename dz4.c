@@ -5,23 +5,11 @@ int main()
 {
     setlocale(LC_ALL, "RUS");
     int A, B, C;
-    int condition;
-
+    int result;
     printf("Введите три целых числа A, B и C: ");
     scanf("%d %d %d", &A, &B, &C);
 
-    condition = (A % 3 == 0) &&
-        (B % 3 == 0) &&
-        (C % 3 == 0);
-
-    if (condition)
-    {
-        printf("Гипотеза подтверждается\n");
-    }
-    else
-    {
-        printf("Гипотеза не подтверждается\n");
-    }
-
+    result = (A % 3 == 0) && (B % 3 == 0) && (C % 3 == 0);
+    printf("Результат проверки гипотезы(1-подтверждена, 0-опровергнута): %d\n", result);
     return 0;
 }
