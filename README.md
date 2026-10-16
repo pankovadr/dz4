@@ -5,17 +5,15 @@
 ### Алгоритм
 1. **Начало**
 2. Ввести три целых числа 'A', 'B', 'C'.
-3. Проверить условие:
-   - `(A % 3 == 0) && (B % 3 == 0) && (C % 3 == 0)`
-4. Если условие выполняется, вывести:
-   - `Гипотеза подтверждается`
-5. Иначе вывести:
-   - `Гипотеза не подтверждается`
-6. **Конец**
+3. Вывести приглашение на ввод чисел. 
+4. Считать три числа с клавиатуры. 
+5. Вычислить результат логического выражения:(A % 3 == 0) && (B % 3 == 0) && (C % 3 == 0).
+6. Вывести результат на экран (1-гипотеза подтверждается, 0-опровергается).
+7. **Конец**
    ### Блок-схема
-    ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/pankovadr/dz4/blob/master/Схема4.drawio.png)
+    ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]()
 ## 2. Реализация программы 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/pankovadr/dz4/blob/master/2026-09-29_20-36-35.png)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]()
 ## 3.Результаты работы программы
 Введите три целых числа A, B и C: 6 9 12
 Гипотеза подтверждается
