@@ -11,7 +11,7 @@
 6. Вывести результат на экран (1-гипотеза подтверждается, 0-опровергается).
 7. **Конец**
    ### Блок-схема
-    ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]()
+    ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/pankovadr/dz4/blob/master/Схема%204%20исправленная.drawio.png)
 ## 2. Реализация программы 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/pankovadr/dz4/blob/master/2026-10-16_18-46-22.png)
 ## 3.Результаты работы программы
